@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local application settings (may contain API keys)
+config.json
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# VS Code settings
+.vscode/
